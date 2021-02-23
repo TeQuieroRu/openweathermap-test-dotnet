@@ -1,0 +1,15 @@
+C:\Users\ilove\source\repos\testWeather\testWeather\obj\Debug\netcoreapp3.1\testWeather.AssemblyInfoInputs.cache
+C:\Users\ilove\source\repos\testWeather\testWeather\obj\Debug\netcoreapp3.1\testWeather.AssemblyInfo.cs
+C:\Users\ilove\source\repos\testWeather\testWeather\obj\Debug\netcoreapp3.1\testWeather.csproj.CoreCompileInputs.cache
+C:\Users\ilove\source\repos\testWeather\testWeather\obj\Debug\netcoreapp3.1\testWeather.csprojAssemblyReference.cache
+C:\Users\ilove\source\repos\testWeather\testWeather\bin\Debug\netcoreapp3.1\testWeather.exe
+C:\Users\ilove\source\repos\testWeather\testWeather\bin\Debug\netcoreapp3.1\testWeather.deps.json
+C:\Users\ilove\source\repos\testWeather\testWeather\bin\Debug\netcoreapp3.1\testWeather.runtimeconfig.json
+C:\Users\ilove\source\repos\testWeather\testWeather\bin\Debug\netcoreapp3.1\testWeather.runtimeconfig.dev.json
+C:\Users\ilove\source\repos\testWeather\testWeather\bin\Debug\netcoreapp3.1\testWeather.dll
+C:\Users\ilove\source\repos\testWeather\testWeather\bin\Debug\netcoreapp3.1\testWeather.pdb
+C:\Users\ilove\source\repos\testWeather\testWeather\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ilove\source\repos\testWeather\testWeather\obj\Debug\netcoreapp3.1\testWeather.csproj.CopyComplete
+C:\Users\ilove\source\repos\testWeather\testWeather\obj\Debug\netcoreapp3.1\testWeather.dll
+C:\Users\ilove\source\repos\testWeather\testWeather\obj\Debug\netcoreapp3.1\testWeather.pdb
+C:\Users\ilove\source\repos\testWeather\testWeather\obj\Debug\netcoreapp3.1\testWeather.genruntimeconfig.cache
